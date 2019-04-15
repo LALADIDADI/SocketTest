@@ -46,6 +46,7 @@
         android:text=""
         android:hint="等下就有消息啦"
         android:scrollbars="vertical"
+        
         android:textSize="20sp"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
